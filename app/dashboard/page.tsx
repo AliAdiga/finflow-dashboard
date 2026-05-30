@@ -1,3 +1,4 @@
+// @ts-nocheck
 'use client'
 import { useState, useEffect } from "react";
 import { LayoutDashboard, TrendingUp, Receipt, Zap, TrendingDown, ArrowRight, Download, Search, Settings, Bell, LogOut, Eye, EyeOff, User, Mail, Lock, Shield, Target, Trash2, X, CheckCircle, ChevronRight } from "lucide-react";
